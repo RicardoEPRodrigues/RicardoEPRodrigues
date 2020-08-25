@@ -10,4 +10,4 @@
 
 📫 You can reach me on [Twitter](https://twitter.com/Quenestil), [Email](mailto:ricardo.e.p.rodrigues@gmail.com), and follow me on [itch.io](https://quenestil.itch.io/).
 
-⚡ Fun fact: Quenestil, my nickname on several platforms, come from a Portuguese fantasy book series name Crónicas de Allaryia.
+⚡ Fun fact: Quenestil, my nickname on several platforms, come from a Portuguese fantasy book series named Crónicas de Allaryia.
