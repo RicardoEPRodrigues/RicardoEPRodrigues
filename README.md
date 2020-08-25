@@ -6,7 +6,7 @@
 
 🤔 I’m looking for help with a [Linux Driver for the Magic Mouse 2](https://github.com/RicardoEPRodrigues/Linux-Magic-Trackpad-2-Driver). If you have knowledge and want to help reach out!
 
-💬 Ask me about Linux, Videogames, Game Design, and travelling!
+💬 Ask me about Linux, Videogames, Game Design, and traveling!
 
 📫 You can reach me on [Twitter](https://twitter.com/Quenestil), [Email](mailto:ricardo.e.p.rodrigues@gmail.com), and follow me on [itch.io](https://quenestil.itch.io/).
 
